@@ -27,7 +27,7 @@
 
 
 
-        <img src="" width="22%">&emsp;&emsp;&emsp;
+        <img src="https://github.com/souradeepsingha/graphics/blob/main/a.gif?raw=true" width="22%">&emsp;&emsp;&emsp;
         <img src="video/b.gif" width="11%">&emsp;
         <img src="video/c (2).gif" width="4%">&nbsp;
     </marquee>
